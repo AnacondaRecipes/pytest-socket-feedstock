@@ -40,7 +40,8 @@ about:
   description: |
     A plugin to use with Pytest to disable or restrict socket calls
     during tests to ensure network calls are prevented.
-
+  doc_url: https://pytest-socket.readthedocs.io/
+  dev_url: https://github.com/miketheman/pytest-socket
 extra:
   recipe-maintainers:
     - duncanmmacleod
